@@ -61,9 +61,9 @@ I am a passionate **Full Stack Engineer** with **2 years of experience** buildin
 
 ## 📊 GitHub Stats
 
-![Rutvik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rutvikrana&show_icons=true&theme=radical)
+![Rutvik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rutvik1803&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rutvikrana&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rutvik1803&layout=compact&theme=radical)
 
 ---
 
