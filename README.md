@@ -42,23 +42,6 @@ I am a passionate **Full Stack Engineer** with **2 years of experience** buildin
 
 ---
 
-## 📂 Projects
-
-### **American Express - Cloud Connector Dashboard**
-- Developed **Dialer Pad, Contact List, Call Screen**.
-- Integrated **Genesys WebRTC SDK** for real-time **call handling**.
-
-### **American Express - Insight Dashboard**
-- Built a **responsive UI** and implemented **Okta & ADS authentication**.
-
-### **CourseKey – Payment Integration**
-- Developed UI for **partial payments & automated payment schedules**.
-
-### **Simple Plan - Resource Management Tool**
-- Implemented **cookie authentication** and **workspace-based authorization**.
-
----
-
 ## 📊 GitHub Stats
 
 ![Rutvik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rutvik1803&show_icons=true&theme=radical)
